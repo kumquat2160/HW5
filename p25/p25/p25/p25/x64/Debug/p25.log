@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\晉頡\Desktop\HW5\p25\p25\p25\main.c(20,8): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\晉頡\Desktop\HW5\p25\p25\p25\main.c(23,13): warning C4047: '函式': 'const char *' 與 'const char *[13]' 間接取值的層級不同
+C:\Users\晉頡\Desktop\HW5\p25\p25\p25\main.c(23,13): warning C4024: 'deal': 型式和實質參數 2 不同的類型
+C:\Users\晉頡\Desktop\HW5\p25\p25\p25\main.c(46,46): warning C4028: 型式參數 2 與來自宣告的不同
+  p25.vcxproj -> C:\Users\晉頡\Desktop\HW5\p25\p25\p25\x64\Debug\p25.exe
